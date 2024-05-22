@@ -1,0 +1,29 @@
+clubs
+swimming
+cinema
+
+
+Prompt:
+
+for club -
+
+To determine the main events planned for 17 May 2024 or weekly or biweekly events held on Friday from the extracted text of a website about a hangout place, we need to analyze the text to identify any specific event details mentioned for each day. Here is a general approach to extracting this information:
+
+1. Events:
+   - Analyze the text for any mentions of events, activities, or specials scheduled for every Fridays or {17 May 2024} or similar, or recurring events weekly for Sunday" etc.).
+   - Identify any specific event names, timings, or descriptions related to 17 may 2024 or weekly activities on Friday.
+
+By following this approach and parsing the text for relevant information regarding events, we can extract and summarize the main events planned for the above mentioned date and day.   
+
+I do not need any information for events which is not on above mentioned date
+ 
+The information can be in German , translate it to english before using and return the result in english
+
+
+
+
+have to do by date and day wise.
+
+
+
+'camera zwo - das arthouse kino : Programm/Tickets HeuteWochenendekompl. Programm X ExpressTicket zurücksetzen Was möchten Sie? Film wählen oder Zeitpunkt wählen Filme anzeigen Tage anzeigen Zeitraum wählen Film wählen Spielzeit wählen Jetzt buchen News News Programm/Tickets Komplettes Programm Best of Cinema Solo@camerazwo Oper im Kino Vorschau Unser Kino Unsere Säle Nostalgie Eintrittspreise Gutscheine kaufen Kino mieten Film-Archiv Newsletter Kontakt Partner #läuftbeiuns am 27. Mai DU BESTIMMST DAS PROGRAMM Private Saalmiete der Cine-Suite: Film schauen oder Zocken auch bei uns einlösbar: für Filme oder Auftritte Programm/Tickets News Programm/Tickets Komplettes Programm Best of Cinema Solo@camerazwo Oper im Kino Vorschau Unser Kino Unsere Säle Nostalgie Eintrittspreise Gutscheine kaufen Kino mieten Film-Archiv Newsletter Kontakt Partner Filter OmU/OV 3D Kaffee Kids Family Ladies Romance Horror Action Star Trek Headphones Kriegsfilm Science Fiction Drama Animation Musik Mystery History Biografie Arthouse Fantasy Sport Abenteuer Natur Krimi Comedy Mehrsprachig Closed Captions Hörunterstützung Audio Description Laser Projektion Höranlage Männer Oscar Thriller Krimi Doku © 2009 - 2024 camera zwo - das arthouse kino - Impressum / Datenschutz / Cookie Einstellungen'
